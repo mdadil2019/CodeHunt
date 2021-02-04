@@ -27,5 +27,5 @@ Feel free to ask any questions or issues that you will face to learn or implemen
 The goal is to make at least one push to your branch for next 100 days even if it's just one function addition to your code. 
 
 
-##Participants 
+Participants 
 1. Mohammad Adil
