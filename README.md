@@ -1,5 +1,5 @@
 # CodeHunt
-A repository to share your ds and algorithms implementations
+A public repository to share your ds and algorithms implementations
 
 
 Branching structure
@@ -25,3 +25,7 @@ Here, everyone will be learning independenly of each other, but we are free to d
 Feel free to ask any questions or issues that you will face to learn or implement in any language of your choice. 
 
 The goal is to make at least one push to your branch for next 100 days even if it's just one function addition to your code. 
+
+
+##Participants 
+1. Mohammad Adil
